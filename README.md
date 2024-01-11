@@ -1,19 +1,20 @@
-Technook Web Development Internship - Task 3
+# Technook Web Development Internship - Task 3
 Congratulations on completing the third task of the Technook Web Development Internship! This task involved creating three projects: a calculator, a calendar, and a registration form using HTML, CSS, JavaScript, and a framework.
 
-Projects
+# Projects
 1. Calculator
 Technologies Used:
 HTML
 CSS
 JavaScript
-Description:
+# Description:
 The calculator project is a basic calculator that performs standard arithmetic operations. It is designed using HTML for the structure, CSS for styling, and JavaScript for the functionality.
 
 Instructions for Testing:
 Clone the repository.
 Open the calculator.html file in a web browser.
 Test the calculator's basic arithmetic operations.
+
 2. Calendar
 Technologies Used:
 HTML
